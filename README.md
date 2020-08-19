@@ -8,5 +8,5 @@ Para visualizar os arquivos na ordem certa, seguir a seguinte ordem:
 2.  Modelo de Redes Neurais (.ipynb)
 3.  Bônus (.ipynb)
 
-Todos os arquivos estão no formato .ipynb. Os arquivos também se encontram compactados (Desafio Rocketmat - HR Engagement Set Sales.rar), o que permite que se baixe todos os arquivos juntos.
+Todos os arquivos estão no formato .ipynb. Os arquivos também se encontram compactados (Desafio - HR Engagement Set Sales.rar), o que permite que se baixe todos os arquivos juntos.
 
